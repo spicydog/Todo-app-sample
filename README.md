@@ -18,5 +18,3 @@ Run `npm run webpack-production` to build the production JS.
 ## Tests
 
 Run `npm run test`.
-
-
